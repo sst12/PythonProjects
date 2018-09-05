@@ -1,2 +1,3 @@
 # PythonProjects
-Some Usefull Python Projects Created by me
+## List of the projects:-
+      1. Password Generator
